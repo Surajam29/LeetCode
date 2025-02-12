@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Surajam29/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Surajam29/LeetCode/tree/master/0155-min-stack) |
 ## Tree
 |  |
 | ------- |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Surajam29/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Surajam29/LeetCode/tree/master/0226-invert-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Surajam29/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
