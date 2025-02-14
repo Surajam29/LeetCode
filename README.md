@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Surajam29/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Surajam29/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Surajam29/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Surajam29/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Surajam29/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Surajam29/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Surajam29/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Surajam29/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Surajam29/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Surajam29/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Surajam29/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Surajam29/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
