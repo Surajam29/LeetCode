@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Surajam29/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Surajam29/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Surajam29/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0747-min-cost-climbing-stairs](https://github.com/Surajam29/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Surajam29/LeetCode/tree/master/0792-binary-search) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Surajam29/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Surajam29/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Surajam29/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Surajam29/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0747-min-cost-climbing-stairs](https://github.com/Surajam29/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Linked List
 |  |
 | ------- |
