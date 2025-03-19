@@ -38,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Surajam29/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Surajam29/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Surajam29/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Surajam29/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Surajam29/LeetCode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Surajam29/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Surajam29/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Surajam29/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Surajam29/LeetCode/tree/master/0268-missing-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Surajam29/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Hash Table
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Surajam29/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Surajam29/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Surajam29/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Surajam29/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Surajam29/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Surajam29/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Surajam29/LeetCode/tree/master/0268-missing-number) |
