@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Surajam29/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0747-min-cost-climbing-stairs](https://github.com/Surajam29/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Surajam29/LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Surajam29/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Surajam29/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Surajam29/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bit Manipulation
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Surajam29/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Surajam29/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Surajam29/LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Surajam29/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
