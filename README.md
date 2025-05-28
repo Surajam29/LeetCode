@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Surajam29/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Surajam29/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Surajam29/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Surajam29/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Surajam29/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Surajam29/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Surajam29/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Surajam29/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Surajam29/LeetCode/tree/master/0075-sort-colors) |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Surajam29/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Surajam29/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
