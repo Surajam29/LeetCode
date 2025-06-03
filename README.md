@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Surajam29/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Surajam29/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Surajam29/LeetCode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Surajam29/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Surajam29/LeetCode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Surajam29/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0747-min-cost-climbing-stairs](https://github.com/Surajam29/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Surajam29/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Surajam29/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Surajam29/LeetCode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Surajam29/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0792-binary-search](https://github.com/Surajam29/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Surajam29/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Sorting
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Surajam29/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Surajam29/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Surajam29/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/Surajam29/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Surajam29/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Surajam29/LeetCode/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/Surajam29/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
