@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Surajam29/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Surajam29/LeetCode/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/Surajam29/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1250-longest-common-subsequence](https://github.com/Surajam29/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Surajam29/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Surajam29/LeetCode/tree/master/0242-valid-anagram) |
 | [1160-letter-tile-possibilities](https://github.com/Surajam29/LeetCode/tree/master/1160-letter-tile-possibilities) |
+| [1250-longest-common-subsequence](https://github.com/Surajam29/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
